@@ -1,15 +1,9 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/itzg/minecraft-server.svg)](https://hub.docker.com/r/itzg/minecraft-server/)
-[![Docker Stars](https://img.shields.io/docker/stars/itzg/minecraft-server.svg?maxAge=2592000)](https://hub.docker.com/r/itzg/minecraft-server/)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/itzg/docker-minecraft-server.svg)](https://github.com/itzg/docker-minecraft-server/issues)
-[![Discord](https://img.shields.io/discord/660567679458869252?label=Discord&logo=discord)](https://discord.gg/DXfKpjB)
-[![Build and Publish](https://github.com/itzg/docker-minecraft-server/actions/workflows/build-multiarch.yml/badge.svg)](https://github.com/itzg/docker-minecraft-server/actions/workflows/build-multiarch.yml)
-[![](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-orange.svg)](https://www.buymeacoffee.com/itzg)
-[![Documentation Status](https://readthedocs.org/projects/docker-minecraft-server/badge/?version=latest)](https://docker-minecraft-server.readthedocs.io/en/latest/?badge=latest)
+# docker-minecraft-server
 
- [![](docs/img/docs-banner.png)](https://docker-minecraft-server.readthedocs.io/)
+This is a customized version of itzg's [docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) for use on the Mango platform.
 
 <details>
-<summary>Expand to see deprecated docs sections -- soon will be removed</summary>
+<summary>Documentation</summary>
 
 ## Intro
 
