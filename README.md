@@ -2,6 +2,10 @@
 
 This is a customized version of itzg's [docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) for use on the Mango platform.
 
+You can support itzg directly here:
+  - https://www.buymeacoffee.com/itzg
+  - https://paypal.me/itzg
+
 <details>
 <summary>Documentation</summary>
 
